@@ -1,6 +1,5 @@
 # Write your code here!
 
-def game_hash =
  game_hash =
 {
   :home => {
@@ -290,9 +289,6 @@ find_player_hash_2("Jeff Adrien")
 def winning_team
   away_total = 0 
   home_total = 0 
-end
   
 game_hash[:away][:players]
 
-
-end
