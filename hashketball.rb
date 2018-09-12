@@ -187,15 +187,9 @@ def team_names
   end
 end
 
-# num_points_scored("Alan Anderson")
-
-# shoe_size("Alan Anderson")
-
-# team_colors("Brooklyn Nets")
 
 
 
-team_names
 
 
 
